@@ -1,5 +1,6 @@
 ## GanbaruKing
-MOD制作をしています。
+I make game mods — design, code, and art.
+I refine AI-generated images into finished game art.
 
 ---
 
@@ -15,4 +16,4 @@ MOD制作をしています。
 ---
 
 ### Tech
-`C#` · `Harmony` · `Godot` · `Python` · `Midjourney / DALL·E 3`
+`C#` · `Harmony` · `Godot` · `Python` · `Midjourney / DALL·E 3`· `Image editing`
