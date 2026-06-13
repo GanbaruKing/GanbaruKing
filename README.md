@@ -16,4 +16,5 @@ I refine AI-generated images into finished game art.
 ---
 
 ### Tech
-`C#` · `Harmony` · `Godot` · `Python` · `Midjourney / DALL·E 3`· `Image editing`
+`C#` · `Harmony` · `Godot` · `Python` · `Midjourney` · `DALL·E 3` · `CLIP STUDIO PAINT PRO` · `GIMP` · `Game asset editing`
+
