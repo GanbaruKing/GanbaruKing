@@ -1,6 +1,5 @@
 ## GanbaruKing
 I make game mods — design, code, and art.
-I refine AI-generated images into finished game art.
 
 ---
 
@@ -16,5 +15,5 @@ I refine AI-generated images into finished game art.
 ---
 
 ### Tech
-`C#` · `Harmony` · `Godot` · `Python` · `Midjourney` · `DALL·E 3` · `CLIP STUDIO PAINT PRO` · `GIMP` · `Game asset editing`
+`C#` · `Harmony` · `Godot` · `Python` · `Midjourney` · `CLIP STUDIO PAINT PRO` · `GIMP` · `Game asset editing`
 
